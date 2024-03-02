@@ -1,0 +1,29 @@
+- name: John Doe
+  age: 25
+  type: person
+  city: New York
+
+- name: Alice Smith
+  age: 30
+  type: person
+  city: Los Angeles
+
+- name: Apple
+  price: 1.99
+  type: fruit
+  color: red
+
+- name: Banana
+  price: 0.99
+  type: fruit
+  color: yellow
+
+- name: Laptop
+  price: 999.99
+  type: electronics
+  brand: XYZ
+
+- name: Television
+  price: 699.99
+  type: electronics
+  brand: ABC
